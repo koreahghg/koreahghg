@@ -12,5 +12,5 @@
 * `26-07-03` **ESLint** | [fix: avoid prefer-numeric-literals false positive for shadowed globals](https://github.com/eslint/eslint/pull/21047)
 * `26-07-03` **TanStack Table** | [fix: prevent crash in createSortedRowModel for unknown sorting column ids](https://github.com/TanStack/table/pull/6373)
 * `26-07-03` **Tailwind CSS** | [Support fractional opacity modifiers for named shadow sizes](https://github.com/tailwindlabs/tailwindcss/pull/20302)
-* `26-07-04` **Radix Primitives** | [fix(checkbox): restore value when externally associated form is reset](https://github.com/radix-ui/primitives/pull/4007)
+* `26-07-03` **Radix Primitives** | [fix(checkbox): restore value when externally associated form is reset](https://github.com/radix-ui/primitives/pull/4007)
 
