@@ -1,7 +1,7 @@
 ## Skills
 
 <p>
-  <img src="https://skills.syvixor.com/api/icons?i=html,css3,javascript,typescript,nextjs,axios,discordjs,eslint,expo,reactjs,reactnative,sentry,tailwindcss,typescripteslint,vercel,vite,zod,zustand&perline=6&radius=85" />
+  <img src="https://skills.syvixor.com/api/icons?i=html,css3,javascript,typescript,nextjs,axios,discordjs,eslint,reactjs,reactnative,tailwindcss,typescripteslint,zod,zustand&perline=7&radius=85" />
   
 </p>
 
