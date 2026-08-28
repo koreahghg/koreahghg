@@ -14,4 +14,6 @@
 * `26-07-03` **Tailwind CSS** | [Support fractional opacity modifiers for named shadow sizes](https://github.com/tailwindlabs/tailwindcss/pull/20302)
 * `26-07-03` **Radix Primitives** | [fix(checkbox): restore value when externally associated form is reset](https://github.com/radix-ui/primitives/pull/4007)
 * `26-08-21` **TanStack Query** | [fix(broadcast-client): recover from errors thrown while applying an incoming cross-tab message](https://github.com/TanStack/query/pull/11242)
+* `26-08-28` **Nest.js** | [fix(common): reject null file input in ParseFilePipe- #17598
+](https://github.com/nestjs/nest/pull/17598)
 
