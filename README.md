@@ -16,5 +16,4 @@
 * `26-08-21` **TanStack Query** | [fix(broadcast-client): recover from errors thrown while applying an incoming cross-tab message](https://github.com/TanStack/query/pull/11242)
 * `26-08-28` **Nest.js** | [fix(common): reject null file input in ParseFilePipe](https://github.com/nestjs/nest/pull/17598)
 * `26-08-28` **Node.js** | [crypto: fix public PKCS8 export error](https://github.com/nodejs/node/pull/65609)
-
-
+* `26-09-01` **ESLint** | [docs: document \c control letter escapes in no-control-regex](https://github.com/eslint/eslint/pull/21286)
