@@ -17,3 +17,4 @@
 * `26-08-28` **Nest.js** | [fix(common): reject null file input in ParseFilePipe](https://github.com/nestjs/nest/pull/17598)
 * `26-08-28` **Node.js** | [crypto: fix public PKCS8 export error](https://github.com/nodejs/node/pull/65609)
 * `26-09-01` **ESLint** | [docs: document \c control letter escapes in no-control-regex](https://github.com/eslint/eslint/pull/21286)
+* `26-09-15` **Nest.js** | [fix(common): invoke proto-key stripping hook via this in transform](https://github.com/nestjs/nest/pull/17761)
