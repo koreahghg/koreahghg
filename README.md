@@ -18,3 +18,4 @@
 * `26-08-28` **Node.js** | [crypto: fix public PKCS8 export error](https://github.com/nodejs/node/pull/65609)
 * `26-09-01` **ESLint** | [docs: document \c control letter escapes in no-control-regex](https://github.com/eslint/eslint/pull/21286)
 * `26-09-15` **Nest.js** | [fix(common): invoke proto-key stripping hook via this in transform](https://github.com/nestjs/nest/pull/17761)
+* `26-09-23` **Tailwind CSS** | [Don't treat \ as an escape inside CSS comments](https://github.com/tailwindlabs/tailwindcss/pull/20508)
