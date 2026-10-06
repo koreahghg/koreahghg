@@ -12,7 +12,6 @@
 * `26-07-03` **ESLint** | [fix: avoid prefer-numeric-literals false positive for shadowed globals](https://github.com/eslint/eslint/pull/21047)
 * `26-07-03` **TanStack Table** | [fix: prevent crash in createSortedRowModel for unknown sorting column ids](https://github.com/TanStack/table/pull/6373)
 * `26-07-03` **Tailwind CSS** | [Support fractional opacity modifiers for named shadow sizes](https://github.com/tailwindlabs/tailwindcss/pull/20302)
-* `26-07-03` **Radix Primitives** | [fix(checkbox): restore value when externally associated form is reset](https://github.com/radix-ui/primitives/pull/4007)
 * `26-08-21` **TanStack Query** | [fix(broadcast-client): recover from errors thrown while applying an incoming cross-tab message](https://github.com/TanStack/query/pull/11242)
 * `26-08-28` **Nest.js** | [fix(common): reject null file input in ParseFilePipe](https://github.com/nestjs/nest/pull/17598)
 * `26-08-28` **Node.js** | [crypto: fix public PKCS8 export error](https://github.com/nodejs/node/pull/65609)
