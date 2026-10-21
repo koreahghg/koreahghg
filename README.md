@@ -20,3 +20,4 @@
 * `26-09-23` **Tailwind CSS** | [Don't treat \ as an escape inside CSS comments](https://github.com/tailwindlabs/tailwindcss/pull/20508)
 * `26-09-23` **Node.js** | [crypto: fix raw key export error for wrong key type](https://github.com/nodejs/node/pull/66217)
 * `26-10-21` **Nest.js** | [fix(core): subscribe to handler observables from other rxjs copies](https://github.com/nestjs/nest/pull/18215)
+* `26-10-21` **Next.js** | [fix: persist cacheControl for Pages Router ISR entries in FileSystemCache](https://github.com/vercel/next.js/pull/100495)
